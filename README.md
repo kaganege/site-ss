@@ -4,6 +4,9 @@
 ```sh
 $ npm install
 ```
-yazarak dosyaları kurun ve ```sh
+yazarak dosyaları kurun ve
+```sh
 npm start
-``` yazarak başlatın. Bu kadar basit!
+```
+yazarak başlatın. 
+**Bu kadar basit!**
