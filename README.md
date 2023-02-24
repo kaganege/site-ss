@@ -1,5 +1,7 @@
 # Site SS
 
+Dosyayı yüklemeyi unutmuşum
+
 ## Kurulum
 ```sh
 $ npm install
